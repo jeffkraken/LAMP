@@ -12,6 +12,8 @@ General information: The vhdx holds a pre-installed OS (Rocky Linux 8.x OS) and 
 
 VHDX can be mounted directly to a new VM In Hyper-V.
 
+
+
 Recommended VM Specs:
 
 Name: LAMP
@@ -24,6 +26,11 @@ Virtual Processors: 2
 
 Networking: Private Switch
 
+
+
+
 There is no planned support for other hypervisors.
+
 There is no planned support of any kind for this virtual machine.
+
 Use it to strengthen your knowledge of LAMP servers, Security Testing, and Linux.
