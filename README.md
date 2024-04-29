@@ -1,17 +1,8 @@
 # LAMP
 A vulnerable LAMP server that was built for basic security testing for students pursuing the CompTIA Security+ (SYO-601)
-The following concepts are covered in this machine:
-Web Application Security
-Open Source Applications
-Database Management
-Secure Remote Access
+The following concepts are covered in this machine: Web Application Security, Open Source Applications, Database Management, and Secure Remote Access.
 
-This machine includes vulnerabilities from:
-Misconfigured services
-Disabled features
-Outdated packages
-Weak Cryptography
-Weak Credential Management
+This machine includes vulnerabilities from: Misconfigured services, Disabled features, Outdated packages, Weak Cryptography, and Weak Credential Management.
 
 DO NOT USE IN LIVE ENVIRONMENTS.
 
