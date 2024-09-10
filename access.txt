@@ -1,7 +1,4 @@
 To access the vhdx for download, use the following link:
-https://drive.google.com/file/d/1ckEHfFmWuekFBH4nDW3KHkoxMQnnIZ6Q/view?usp=sharing
+~~~~LINK REMOVED~~~~~
 
-Things to remember:
-1) It's a big file (9.2 gigs)
-2) It's hosted on Google Drive so download speeds may vary
-3) There is no planned support for this project
+Updates are being implemented to fix some unintentional blocks/vulnerabilities in the server. New version due end of 2024, if you're seeing this after 2024 ends... I'll get back to it eventually.
