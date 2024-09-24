@@ -14,7 +14,7 @@ VHDX can be mounted directly to a new VM In Hyper-V.
 
 Recommended VM Specs:
 
-Name: LAMP CTF
+Name: glpi
 
 Generation: 1
 
