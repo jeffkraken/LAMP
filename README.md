@@ -4,7 +4,8 @@ The following concepts are covered in this machine: Web Application Security, Op
 
 DO NOT USE IN LIVE ENVIRONMENTS.
 
-To download the file, use the link shared in the access.txt file
+To download, use the link shared in the access.txt file
+The file downloaded will be a .rar archive that contains a text document with minimal information about the challenge and the vhdx file needed to build the LAMP CTF
 
 General information: The vhdx holds a pre-installed OS (Rocky Linux 8.x OS) and is preconfigured to use the IP Address 192.168.1.1 on a /24 network.
 
