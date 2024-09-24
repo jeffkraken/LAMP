@@ -1,4 +1,4 @@
-To access the vhdx for download, use the following link:
-~~~~LINK REMOVED~~~~~
+To access the vhdx, use the following link to download the .rarchive:
+https://drive.google.com/file/d/1Nr7CUQW-r8MDfg13wGYiqHjhWT-xuKwg/view?usp=sharing
 
-Updates are being implemented to fix some unintentional blocks/vulnerabilities in the server. New version due end of 2024, if you're seeing this after 2024 ends... I'll get back to it eventually.
+NOTE: this file is being hosted in Google Drive. Please allow for extra time to download accordingly.
