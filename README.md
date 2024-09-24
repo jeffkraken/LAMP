@@ -1,4 +1,4 @@
-# LAMP
+# LAMP CTF
 A vulnerable LAMP server that was built for basic security testing for students pursuing the CompTIA Security+ (SYO-601)
 The following concepts are covered in this machine: Web Application Security, Open Source Applications, Database Management, and Secure Remote Access. This machine includes vulnerabilities from: Misconfigured services, Disabled features, Outdated packages, Weak Cryptography, and Weak Credential Management.
 
@@ -14,7 +14,7 @@ VHDX can be mounted directly to a new VM In Hyper-V.
 
 Recommended VM Specs:
 
-Name: LAMP
+Name: LAMP CTF
 
 Generation: 1
 
